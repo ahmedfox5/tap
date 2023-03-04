@@ -1,17 +1,11 @@
 {
-  "name": "spacemudd/laravel-tap-payments",
+  "name": "fox/tap_payments",
   "description": "Tap Payment REST API package for Laravel",
   "license": "MIT",
   "authors": [
     {
-      "name": "Shafiq al-Shaar",
-      "email": "hello@getshafiq.com",
-      "homepage": "https://getShafiq.com/"
-    },
-    {
-      "name": "Vanand Mkrtchyan",
-      "email": "vanand@vm-development.com",
-      "homepage": "http://www.vm-development.com/"
+      "name": "Ahmed fox",
+      "email": "fox185a@gmail.com"
     }
   ],
   "minimum-stability": "dev",
