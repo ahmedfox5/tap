@@ -1,5 +1,5 @@
 {
-  "name": "fox/tap_payments",
+  "name": "ahmedfox/tap_payments",
   "description": "Tap Payment REST API package for Laravel",
   "license": "MIT",
   "authors": [
