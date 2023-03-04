@@ -5,7 +5,8 @@ Integration library with https://www.tap.company
 ## Installation
 
 ```
-composer require "spacemudd/laravel-tap-payments"
+composer require ahmedfox/tap_payments
+
 ```
 
 ## For older versions of Laravel (<5.5)
