@@ -1,6 +1,6 @@
 # About
 
-This package has an update in the paltform requirements in for this package
+This package has an update in the paltform requirements for this package
 
 https://github.com/spacemudd/laravel-tap-payments 
 
