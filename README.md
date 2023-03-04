@@ -1,5 +1,11 @@
 # About
 
+This package has an update in the paltform requirements in for this package
+
+https://github.com/spacemudd/laravel-tap-payments 
+
+to run with laravel 9
+
 Integration library with https://www.tap.company
 
 ## Installation
