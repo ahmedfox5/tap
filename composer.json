@@ -1,0 +1,40 @@
+{
+  "name": "spacemudd/laravel-tap-payments",
+  "description": "Tap Payment REST API package for Laravel",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Shafiq al-Shaar",
+      "email": "hello@getshafiq.com",
+      "homepage": "https://getShafiq.com/"
+    },
+    {
+      "name": "Vanand Mkrtchyan",
+      "email": "vanand@vm-development.com",
+      "homepage": "http://www.vm-development.com/"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "ext-curl": "*",
+    "ext-json": "*",
+    "guzzlehttp/guzzle": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Tap\\TapPayment\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Tap\\TapPayment\\Tests\\": "tests/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Tap\\TapPayment\\TapPaymentServiceProvider"
+      ]
+    }
+  }
+}
